@@ -363,3 +363,4 @@ def delete_event(request, group_id, event_id):
     return redirect('chipin:group_detail', group_id=group.id)
 
 
+
